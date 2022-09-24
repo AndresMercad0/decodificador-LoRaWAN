@@ -10,10 +10,18 @@ Ejemplo práctico del uso de la biblioteca [lora-packet](https://github.com/anth
 
 ## Instalación
 
-Para desplegar este proyeto, ejecute
-
+Descargar código fuente
 ```bash
   git clone https://github.com/AndresMercad0/decodificador-LoRaWAN.git
   cd decodificador-LoRaWAN
-  npm install
+```
+
+Instalar módulo **lora-packet**
+```bash
+  npm install lora-packet
+```
+
+Ejecutar script
+```bash
+  node decodificadorLoRa.js
 ```

@@ -12,16 +12,16 @@ Ejemplo práctico del uso de la biblioteca [lora-packet](https://github.com/anth
 
 Descargar código fuente
 ```bash
-  git clone https://github.com/AndresMercad0/decodificador-LoRaWAN.git
-  cd decodificador-LoRaWAN
+git clone https://github.com/AndresMercad0/decodificador-LoRaWAN.git
+cd decodificador-LoRaWAN
 ```
 
 Instalar módulo **lora-packet**
 ```bash
-  npm install lora-packet
+npm install lora-packet
 ```
 
 Ejecutar script
 ```bash
-  node decodificadorLoRa.js
+node decodificadorLoRa.js
 ```
